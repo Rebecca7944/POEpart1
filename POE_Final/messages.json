@@ -1,0 +1,16 @@
+[
+  {
+    "messageID": "7148877607",
+    "messageHash": "71:1:HYYYHYYY",
+    "recipient": "+27123456789",
+    "message": "hyyy",
+    "status": "Sent"
+  },
+  {
+    "messageID": "2257804220",
+    "messageHash": "22:2:BYEEBYEE",
+    "recipient": "+27123456789",
+    "message": "byee",
+    "status": "Sent"
+  }
+]
